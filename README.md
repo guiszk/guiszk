@@ -4,3 +4,4 @@
 </div>
 
 <a href="https://gist.github.com/guiszk">My gists</a>
+<a href="https://pypi.org/user/guiszk/">PyPI packages</a>
